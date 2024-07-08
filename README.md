@@ -1,5 +1,3 @@
-# 
-
 <div align="center">
   <h2><b> Shuishui </b></h2>
 </div>
@@ -10,12 +8,9 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/ztxtech/shuishui)](https://github.com/ztxtech/shuishui/activity?ref=master&activity_type=direct_push)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/ztxtech/shuishui)](https://github.com/ztxtech/shuishui/graphs/commit-activity)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ztxtech/shuishui)](https://github.com/ztxtech/shuishui)
-[![GitHub](https://img.shields.io/github/license/ztxtech/shuishui)](https://github.com/ztxtech/shuishui/blob/main/LICENSE)
 [![Docker Pulls](https://img.shields.io/docker/pulls/ztxtechnology/shuishui)](https://hub.docker.com/r/ztxtechnology/shuishui)
 [![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/ztxtechnology/shuishui/0.0.1-amd64)](https://hub.docker.com/r/ztxtechnology/shuishui)
-[![GitHub Repo stars](https://img.shields.io/github/stars/ztxtech/shuishui)](https://github.com/ztxtech/shuishui)
-[![GitHub forks](https://img.shields.io/github/forks/ztxtech/shuishui)](https://github.com/ztxtech/shuishui)
-[![GitHub watchers](https://img.shields.io/github/watchers/ztxtech/shuishui)](https://github.com/ztxtech/shuishui)
+
 
 ### A hangout script for the BBS of University of Electronic Science and Technology of China (UESTC). This script automates the process of keeping your account active on the UESTC BBS.
 
