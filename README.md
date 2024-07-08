@@ -12,7 +12,7 @@
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ztxtech/shuishui)](https://github.com/ztxtech/shuishui)
 [![GitHub](https://img.shields.io/github/license/ztxtech/shuishui)](https://github.com/ztxtech/shuishui/blob/main/LICENSE)
 [![Docker Pulls](https://img.shields.io/docker/pulls/ztxtechnology/shuishui)](https://hub.docker.com/r/ztxtechnology/shuishui)
-[![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/ztxtechnology/shuishui/0.0.2-amd64)](https://hub.docker.com/r/ztxtechnology/shuishui)
+[![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/ztxtechnology/shuishui/0.0.1-amd64)](https://hub.docker.com/r/ztxtechnology/shuishui)
 [![GitHub Repo stars](https://img.shields.io/github/stars/ztxtech/shuishui)](https://github.com/ztxtech/shuishui)
 [![GitHub forks](https://img.shields.io/github/forks/ztxtech/shuishui)](https://github.com/ztxtech/shuishui)
 [![GitHub watchers](https://img.shields.io/github/watchers/ztxtech/shuishui)](https://github.com/ztxtech/shuishui)
